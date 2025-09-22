@@ -11,6 +11,8 @@ Many features, including AI features (Gemini API Code is Required - you can get 
 🎁 *Surprise Me* - Get a random movie or series to watch.
 
 ✨ *Al Recommender* - Describe the movie or series you're in the mood for (e.g., "a psychological thriller with a surprising twist"), and our AI will find a recommendation for you. (Gemini API Code is Required)
+
+🎰 *Recommendation Roulette* - Improved version of "Surprise Me": Spin the roulette and get a random recommendation on what to watch.
 # 🖥️ Link To Site
 https://findflixtv.edgeone.app/#home
 # 🔥 Change-Log
