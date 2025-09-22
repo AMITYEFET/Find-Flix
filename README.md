@@ -49,4 +49,5 @@ Complete achievements to receive rewards (site themes). Themes can be applied in
 https://github.com/AMITYEFET/Find-Flix/blob/main/CHANGELOG.md
 # 📞 Contact Us
 **Have a question, suggestion, or report? We'd love to hear from you!**
+
 Email: amityefet262@gmail.com
