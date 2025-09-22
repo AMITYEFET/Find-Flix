@@ -31,6 +31,8 @@ Complete achievements to receive rewards (site themes). Themes can be applied in
 🧑‍🎨 *Theme* - Choose between Dark, Light, Automatic synchronization with your system settings or get more themes by completing Achievements.
 
 ↔️ *Card Density* - Change the spacing between cards to show more or fewer items on screen.
+
+⌨️ *Custom Font* - Upload your own font file (.ttf, .otf, .woff). This feature may affect the app's design. Note: Some fonts may not support all languages.
 # ♿ Settings - Accessibility 
 🔠 *Font Size* - Increase or decrease the text size in the app for more comfortable reading.
 
@@ -41,8 +43,6 @@ Complete achievements to receive rewards (site themes). Themes can be applied in
 ➖ *Underline Links* - Add an underline to all links to make them easier to identify.
 # 👀 Advanced Settings
 ⚠️ **Advanced settings may be experimental and may be removed/changed without prior notice.** 
-
-⌨️ *Custom Font* - Upload your own font file (.ttf, .otf, .woff). This feature may affect the app's design. Note: Some fonts may not support all languages.
 
 🔑 *Gemini API Key* - Required to use the AI summary feature. You can get a free key from Google AI Studio. (Experimental)
 # 🔥 Change-Log
