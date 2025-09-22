@@ -7,9 +7,10 @@ settings.
 The site is available in 8 languages, and is powered by information from the TMBD (The Movie Detabase) API.
 Many features, including AI features (Gemini API Code is Required - you can get one for free in Google AI Studio) is available right now and there's more to come!
 
-*Surprise Me* - Get a random movie or series to watch.
 
-*Al Recommender* - Describe the movie or series you're in the mood for (e.g., "a psychological thriller with a surprising twist"), and our AI will find a recommendation for you. (Gemini API Code is Required)
+🎁 *Surprise Me* - Get a random movie or series to watch.
+
+✨ *Al Recommender* - Describe the movie or series you're in the mood for (e.g., "a psychological thriller with a surprising twist"), and our AI will find a recommendation for you. (Gemini API Code is Required)
 # 🖥️ Link To Site
 https://findflixtv.edgeone.app/#home
 # 🔥 Change-Log
