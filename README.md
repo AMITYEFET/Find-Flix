@@ -1,5 +1,7 @@
 # 📺 Find-Flix 
 Find your next movie or series with Find-Flix, A platform with millions of movies and series with information about seasons, episodes, length, genres, streaming services and more.
+# 🖥️ Link To Site
+https://findflixtv.edgeone.app/#home
 # ℹ️ About
 This site was created as a personal project by Amit Yefet and has no official affiliation with the streaming services mentioned. The information is collected from public sources and displayed for informational purposes only using the TMDB API, and we are very grateful to them. We do not support or encourage watching pirated content. © 2025 All rights reserved. To use Al features, a Gemini API key must be entered in the
 settings.
@@ -15,7 +17,7 @@ Many features, including AI features (Gemini API key is Required - you can get o
 🎰 *Recommendation Roulette* - Improved version of "Surprise Me": Spin the roulette and get a random recommendation on what to watch.
 
 🌟 *AI Insights* - Get information about a movie or series from AI. (Gemini API key is Required)
-# 🖥️ Link To Site
-https://findflixtv.edgeone.app/#home
+# 🎖️ Achievements
+Complete achievements to receive rewards (site themes). Themes can be applied in settings. Not all achievements grant themes.
 # 🔥 Change-Log
 *V1.00* - It's time for an official launch: find your next series or movie wite Find-Flix!
