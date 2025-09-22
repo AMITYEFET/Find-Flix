@@ -27,5 +27,9 @@ Complete achievements to receive rewards (site themes). Themes can be applied in
 💾 *Backup & Restore* - Save or load all your data and settings using a file or a text code.
 # ⚙️ Settings - General
 🌐 *Language* - Change the display language of the application interface. This may also affect which streaming services are shown.
+# 🖼️ Settings - Display
+🧑‍🎨 *Theme* - Choose between Dark, Light, Automatic synchronization with your system settings or get more themes by completing Achievements.
+
+↔️ *Card Density* - Change the spacing between cards to show more or fewer items on screen.
 # 🔥 Change-Log
 *V1.00* - It's time for an official launch: find your next series or movie wite Find-Flix!
