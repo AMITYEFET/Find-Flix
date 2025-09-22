@@ -3,3 +3,7 @@
 ℹ️ **information:** Ability to view the website logs.
 
 ⚡ **Chance of adding the feature:** High.
+# 📺 Streamio 
+ℹ️ **information:** Adding Streamio as a stream platform. (I'm not sure that's possible, and I'm not sure it's a good idea legally.)
+
+⚡ **Chance of adding the feature:** Low.
