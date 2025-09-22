@@ -50,11 +50,3 @@ Complete achievements to receive rewards (site themes). Themes can be applied in
 # 📞 Contact Us
 **Have a question, suggestion, or report? We'd love to hear from you!**
 Email: amityefet262@gmail.com
-
-
-
-
-
-
-
-<meta name="google-site-verification" content="fYyv-sl3QMMwVOxe9zmNM9qaQYhJzb4lOzZXYSiFrGE" />
