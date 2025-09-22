@@ -10,4 +10,4 @@
 # 👤 Wikipedia Links For Cast & Crew
 ℹ️ **information:** Links to the Wikipedia pages of Cast & Crew people of series and movies.
 
-⚡ **Chance of adding the feature:** Very Hige.
+⚡ **Chance of adding the feature:** Very High.
