@@ -31,5 +31,13 @@ Complete achievements to receive rewards (site themes). Themes can be applied in
 🧑‍🎨 *Theme* - Choose between Dark, Light, Automatic synchronization with your system settings or get more themes by completing Achievements.
 
 ↔️ *Card Density* - Change the spacing between cards to show more or fewer items on screen.
+# ♿ Settings - Accessibility 
+🔠 *Font Size* - Increase or decrease the text size in the app for more comfortable reading.
+
+🌚 *High Contrast* - Improve readability by increasing the contrast between text and background.
+
+🦥 *Reduced Motion* - Reduce or disable animations and transitions in the interface for a calmer experience.
+
+➖ *Underline Links* - Add an underline to all links to make them easier to identify.
 # 🔥 Change-Log
 *V1.00* - It's time for an official launch: find your next series or movie wite Find-Flix!
