@@ -47,3 +47,6 @@ Complete achievements to receive rewards (site themes). Themes can be applied in
 🔑 *Gemini API Key* - Required to use the AI summary feature. You can get a free key from Google AI Studio. (Experimental)
 # 🔥 Change-Log
 *V1.00* - It's time for an official launch: find your next series or movie wite Find-Flix!
+# 📞 Contact Us
+**Have a question, suggestion, or report? We'd love to hear from you!**
+Email: amityefet262@gmail.com
