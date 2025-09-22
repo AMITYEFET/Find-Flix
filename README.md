@@ -6,7 +6,7 @@ settings.
 # ⚡ What's special
 The site is available in 8 languages, and is powered by information from the TMBD (The Movie Detabase) API.
 Many features, including AI features (Gemini API Code is Required) is available right now and there's more to come!
-🖥️ Link To Site
+# 🖥️ Link To Site
 https://findflixtv.edgeone.app/#home
 # 🔥 Change-Log
 *V1.00* - It's time for an official launch: find your next series or movie wite Find-Flix!
