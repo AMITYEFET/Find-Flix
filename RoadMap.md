@@ -7,3 +7,7 @@
 ℹ️ **information:** Adding Streamio as a stream platform. (I'm not sure that's possible, and I'm not sure it's a good idea legally.)
 
 ⚡ **Chance of adding the feature:** Low.
+# 👤 Wikipedia Links For Cast & Crew
+ℹ️ **information:** Links to the Wikipedia pages of Cast & Crew people of series and movies.
+
+⚡ **Chance of adding the feature:** Very Hige.
