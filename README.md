@@ -21,7 +21,9 @@ Many features, including AI features (Gemini API key is Required - you can get o
 Complete achievements to receive rewards (site themes). Themes can be applied in settings. Not all achievements grant themes.
 # 👤 Settings - My Account
 👊 *Change Preferences* - Re-take the preferences quiz to update your recommendations.
+
 ❌ *Reset Preferences* - This will erase your personalized preferences. The home page will now show general trending content instead of recommendations.
+
 💾 *Backup & Restore* - Save or load all your data and settings using a file or a text code.
 # ⚙️ Settings - General
 🌐 *Language* - Change the display language of the application interface. This may also affect which streaming services are shown.
