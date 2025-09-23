@@ -3,10 +3,6 @@
 ℹ️ **information:** Ability to view the website logs.
 
 ⚡ **Chance of adding the feature:** High.
-# 📺 Streamio 
-ℹ️ **information:** Adding Streamio as a streaming platform in Find-Flix. (I'm not sure that's possible, and I'm not sure it's a good idea legally.)
-
-⚡ **Chance of adding the feature:** Low.
 # 👤 Wikipedia Links For Cast & Crew
 ℹ️ **information:** Links to the Wikipedia pages of Cast & Crew people of series and movies.
 
