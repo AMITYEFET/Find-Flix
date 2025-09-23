@@ -42,7 +42,7 @@ Complete achievements to receive rewards (site themes). Themes can be applied in
 
 ➖ *Underline Links* - Add an underline to all links to make them easier to identify.
 # 👀 Advanced Settings
-⚠️ **Advanced settings may be experimental and may be removed/changed without prior notice.** 
+⚠️ **Advanced settings are experimental and may be removed/changed without prior notice!** 
 
 🔑 *Gemini API Key* - Required to use the AI summary feature. You can get a free key from Google AI Studio. (Experimental)
 
