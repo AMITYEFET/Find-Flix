@@ -45,6 +45,8 @@ Complete achievements to receive rewards (site themes). Themes can be applied in
 ⚠️ **Advanced settings may be experimental and may be removed/changed without prior notice.** 
 
 🔑 *Gemini API Key* - Required to use the AI summary feature. You can get a free key from Google AI Studio. (Experimental)
+
+◀️ *Show Stremio Button* - Display a button to open content directly in the Stremio app (requires the app to be installed). (Experimentl)
 # 🔥 Change-Log
 https://github.com/AMITYEFET/Find-Flix/blob/main/CHANGELOG.md
 # 📞 Contact Us
