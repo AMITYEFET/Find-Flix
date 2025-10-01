@@ -8,3 +8,6 @@
 - Bug Fixes.
 # V1.0.2 - 24/9/25 📅
 - Bug Fixes.
+# V1.1 - 1/10/25 📆
+- New Feature: cast & crew Pages - Click on anyone from cast & crew to open their information page including date of birth, place of birth, biography, and known content. I plan to improve this feature over time.
+- animation for loading episodes has been added.
