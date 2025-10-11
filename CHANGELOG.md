@@ -14,5 +14,4 @@
 # V1.1.1 - 9/10/25 📆
 - After some thought, we realized that the experimental Stremio feature was unnecessary. We decided to remove it from the site.
 # V1.2 - 11.10.25 📆
-- New Experimental feature under Advanced Settings: Show CINEBY Button
-Add a button to open direct viewing via CINEBY. May contain advertisements and pop-ups - use is at the sole responsibility of the user.
+- New Experimental feature under Advanced Settings: Show CINEBY Button - Add a button to open direct viewing via CINEBY. May contain advertisements and pop-ups - use is at the sole responsibility of the user.
