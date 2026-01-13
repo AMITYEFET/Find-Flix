@@ -1,0 +1,19 @@
+## HE
+head = "כל המערכות פועלות."
+des = "אנחנו לא רואים שום דבר בעייתי ב-Find-Flix כרגע."
+impo = "בדיקה!!!!!!!!!!"
+
+## EN
+head = "all systems operational."
+des = "we can't see anything wrong in Find-Flix right now."
+impo = "TEST!!!!!"
+
+## SA
+head = "جميع الأنظمة تعمل بشكل سليم."
+des = "لا نرى أي مشكلة في Find-Flix حاليًا."
+impo = "اختبار!!!!1"
+
+## RU
+head = "все системы работают."
+des = "мы не видим никаких проблем в Find-Flix прямо сейчас."
+impo = "ТЕСТ!!!!!"
