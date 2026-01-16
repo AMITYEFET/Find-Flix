@@ -1,7 +1,7 @@
 system = ON
 
-IMPOHEAD = שגיאה בטעינת לוח השידורים
-IMPODES = אנחנו מודעים לבעיה שחוזרת על עצמה כבר הרבה זמן, אבל זו כנראה בעיה בצד של Open-EPG.
+IMPOHEAD = NONE
+IMPODES = NONE
 
 
 NEW - עיצוב חדש לערוצי הטלוויזיה. 
