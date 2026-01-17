@@ -1,7 +1,7 @@
-system = ON
+system = OFF
 
-IMPOHEAD = NONE
-IMPODES = NONE
+IMPOHEAD = שגיאות
+IMPODES = אנו מודעים לבעיה.
 
 
 NEW - עיצוב חדש לערוצי הטלוויזיה.
