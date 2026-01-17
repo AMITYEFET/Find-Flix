@@ -4,7 +4,7 @@ IMPOHEAD = NONE
 IMPODES = NONE
 
 
-NEW - 
+NEW = 
 
 
 TV = NONE
