@@ -7,7 +7,7 @@ IMPODES = NONE
 NEW = 
 
 
-TV = ממשק הטלוויזיה בתהליכי שדרוג. ייתכנו בעיות!
+TV = NONE
 
 LIVE = NONE
 
