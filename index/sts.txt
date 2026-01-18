@@ -7,6 +7,6 @@ IMPODES = NONE
 NEW = 
 
 
-TV = NONE
+TV = לוח השידורים אינו זמין זמנית.
 
 LIVE = NONE
