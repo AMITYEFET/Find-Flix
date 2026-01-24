@@ -8,5 +8,5 @@ NEW =
 
 TV = NONE
 
-LIVE = NONE
+LIVE = תכונת ה-TMDB נמצאת בבטא מוקדמת מאוד. לכו לנסות אותה ותודיעו לנו מה אתם חושבים! 🙏
 
