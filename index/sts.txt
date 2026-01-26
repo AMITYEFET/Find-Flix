@@ -3,7 +3,7 @@ system = ON
 IMPOHEAD = NONE
 IMPODES = NONE
 
-NEW = 
+NEW = תוסף חדש: Find-Flix Watch: צפו בתכנים נבחרים בתרגום לעברית בעזרת Google Drive. לרשימת התכנים המלאה - האזור שלי > תוספים > הפעילו את תוסף "Find-Flix Watch" < לחצו על רשימת תכנים. תכנים נוספים יתווספו בעתיד.
 
 
 TV = NONE
