@@ -1,6 +1,0 @@
-
-eventname = מה חדש?
-eventlogo = NONE
-eventpic = NONE
-eventbold1 = לא מצאנו שום דבר חדש לעכשיו...
-eventdis1 = בדקו שוב בקרוב!
