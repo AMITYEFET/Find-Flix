@@ -1,7 +1,7 @@
 
 eventname = נסו את הפלייליסטים
 eventlogo = https://i.pinimg.com/originals/f9/3d/6c/f93d6cdd9ca0d22aa5a98ef41ed84fb6.png
-eventpic - https://static.wixstatic.com/media/5ea70b_af0b529f508649a8a4e6ddae672a12f6~mv2.png/v1/fill/w_568,h_398,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5ea70b_af0b529f508649a8a4e6ddae672a12f6~mv2.png
+eventpic = https://static.wixstatic.com/media/5ea70b_af0b529f508649a8a4e6ddae672a12f6~mv2.png/v1/fill/w_568,h_398,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5ea70b_af0b529f508649a8a4e6ddae672a12f6~mv2.png
 eventbold1 = צרו פלייליסט
 eventdis1 = צרו פלייליסט על ידי לחיצה על כפתור התפריט בצד המסך, לחיצה על "האזור שלי" ולאחר מכן על "הפלייליסטים שלי"
 eventbold2= לחצו על כפתור צור פלייליסט
