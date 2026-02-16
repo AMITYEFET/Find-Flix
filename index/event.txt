@@ -1,10 +1,6 @@
 
-eventname = Find-Flix Events - Season 1
+eventname = מה חדש?
 eventlogo = NONE
 eventpic = NONE
-eventbold1 = כבשו את המטרה!
-eventdis1 = יש לכם זמן מוגבל להשלים את המטרה שלמטה: לאחר שתשלימו אותה, תפתחו את ערכת הנושא של עונה 1: וולנטיין!
-eventbold2= זמן מוגבל!
-eventdis2 = עונה 1 רצה עד ה-31 בפברואר!
-eventbold3 = בלעדיות
-eventdis3 = הפרסים שמתקבלים באמצעות אירועים לא בלעדיים, ועשויים לחזור בשלב מסוים בעתיד.
+eventbold1 = לא מצאנו שום דבר חדש לעכשיו...
+eventdis1 = בדקו שוב בקרוב!
