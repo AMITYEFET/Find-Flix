@@ -1,6 +1,10 @@
 
 eventname = test
 eventlogo = https://i.pinimg.com/originals/f9/3d/6c/f93d6cdd9ca0d22aa5a98ef41ed84fb6.png
-eventpic - תמונה גדולה שתופיע בתוך עמוד האייונט וגם ברקע שלו כ"צבע" הדרגתי.
-eventbold1 + eventdis1 וכן הלאה לכל מספר = סעיף של כותרת+תיאור.
-אל תכתוב את כל הקוד מחדש
+eventpic - https://static.wixstatic.com/media/5ea70b_af0b529f508649a8a4e6ddae672a12f6~mv2.png/v1/fill/w_568,h_398,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5ea70b_af0b529f508649a8a4e6ddae672a12f6~mv2.png
+eventbold1 = TEST
+eventdis1 = TEST
+eventbold2= TEST
+eventdis2 = TEST
+eventbold3 = TEST
+eventdis3 = TEST
