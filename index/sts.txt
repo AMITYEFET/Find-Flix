@@ -3,7 +3,7 @@ system = ON
 IMPOHEAD = אפליקציית אנדרואיד זמינה עכשיו!
 IMPODES = https://drive.google.com/file/d/1gPMomflTWvJFoGMT5MzPrNwp9vW3de47/download?usp=drivesdk
 
-NEW = 15.2.26 | פיצ'ר חדש של פלייליסטים: תוכלו ליצור פלייליסטי צפייה מותאמים אישית, ולהוסיף אליהם תכנים. שימו לב שהספרייה והתכנים שנצפו הומרו לפלייליסט אוטומטית, ושתכונת השיתוף עדיין בפיתוח. \ תכונת השורטס הוסרה. / תיקוני באגים ושיפורי חווית המשתמש.
+NEW = 21.2.26 | אפליקציית האנדרואיד שלנו הושקה בגרסת הרצה! הורידו אותה בקישור https://drive.google.com/file/d/1gPMomflTWvJFoGMT5MzPrNwp9vW3de47/download?usp=drivesdk כדי לקבל עדכונים ולהנות מגישה נוחה יותר לאתר.
 
 TV = NONE
 
