@@ -12,7 +12,7 @@ BOLD = TV209760, TV314341, MV696393, TV313695, TV100088
 
 -
 # big bro 26
-bigbrobanner = yes
+bigbrobanner = no
 bigbro = yes
 bigbrodate = 10/3/26 - 21:30
 -
