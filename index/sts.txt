@@ -1,4 +1,4 @@
-system = Off
+system = OFF
 
 IMPOHEAD = זוהי הודעת בדיקה.
 IMPODES = זוהי רק הודעת בדיקה. הכל בסדר!
