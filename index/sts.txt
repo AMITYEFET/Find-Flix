@@ -4,7 +4,7 @@ IMPOHEAD = NONE
 IMPODES = NONE
 
 NEW = ערוץ האח הגדול נוסף לתוסף ערוצי טלוויזיה ישראלים. תיקוני באגים ושיפורי חווית המשתמש.
-Newdate = 5/3/26
+NEWDATE = 5/3/26
 
 TV = NONE
 
