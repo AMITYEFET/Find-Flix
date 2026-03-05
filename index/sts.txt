@@ -6,13 +6,13 @@ IMPODES = NONE
 NEW = ערוץ האח הגדול נוסף לתוסף ערוצי טלוויזיה ישראלים. תיקוני באגים ושיפורי חווית המשתמש.
 NEWDATE = 5/3/26
 
-TV = NONE
+TV = אנו מודיעים לבעיה עם דף הטלוויזיה במכשירי מובייל ופועלים לתיקון.
 
 BOLD = TV209760, TV314341, MV696393, TV313695, TV100088
 
 -
 # big bro 26
-bigbrobanner = no
+bigbrobanner = yes
 bigbro = yes
 bigbrodate = 10/3/26 - 21:30
 -
