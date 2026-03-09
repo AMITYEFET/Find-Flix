@@ -10,10 +10,11 @@ TV = NONE
 
 BOLD = TV209760, TV314341, MV696393,TV100757, TV243979, TV313695, TV310642, TV18165, MV1151534, TV117581
 
-epgsrc = 1
+epgsource = 1
 
 
-https://www.open-epg.com/generate/tRXzGd4zBv.xml | https://github.com/AMITYEFET/Find-Flix/raw/refs/heads/main/tRXzGd4zBv.xml
+1 - https://www.open-epg.com/generate/tRXzGd4zBv.xml
+2 - https://github.com/AMITYEFET/Find-Flix/raw/refs/heads/main/tRXzGd4zBv.xml
 -
 # big bro 26
 bigbrobanner = yes
