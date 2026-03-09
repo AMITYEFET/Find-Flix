@@ -1,7 +1,7 @@
 system = ON
 
-IMPOHEAD = תכנים לא נטענים 
-IMPODES = אנו מודעים לבעיה שבה תכנים עשויים שלא להיטען כראוי. בינתיים, אנא נסו לעבור לעמוד אחר ואז לחזור אליו באמצעות התפריט.
+IMPOHEAD = NONE
+IMPODES = NONE
 
 NEW = שיפורים למערכת הפלייליסטים. | מגוון ערוצים חדשים נוספו לתוסף ערוצי הטלוויזיה הישראלים. | תיקוני באגים ושיפורי חווית המשתמש.
 NEWDATE = 7/3/26
@@ -10,7 +10,7 @@ TV = NONE
 
 BOLD = TV209760, TV314341, MV696393,TV100757, TV243979, TV313695, TV310642, TV18165, MV1151534, TV117581
 
-epgsrc = https://www.open-epg.com/generate/tRXzGd4zBv.xml
+epgsrc = 1
 
 
 https://www.open-epg.com/generate/tRXzGd4zBv.xml | https://github.com/AMITYEFET/Find-Flix/raw/refs/heads/main/tRXzGd4zBv.xml
