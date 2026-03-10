@@ -11,9 +11,9 @@ TV = NONE
 BOLD = TV209760, TV314341, MV696393,TV100757, TV243979, TV313695, TV310642, TV18165, MV1151534, TV117581
 -
 # big bro 26
-bigbrobanner = yes
+bigbrobanner = no
 bigbro = yes
-bigbrodate = 10/3/26 - 21:20
+bigbrodate =
 -
 
 LIVE = NONE
