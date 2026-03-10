@@ -19,7 +19,7 @@ epgsource = 2
 # big bro 26
 bigbrobanner = yes
 bigbro = yes
-bigbrodate = 10/3/26 - 21:20
+bigbrodate = NONE
 -
 
 LIVE = NONE
