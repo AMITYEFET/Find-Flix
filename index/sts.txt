@@ -12,7 +12,7 @@ BOLD = TV209760, TV314341, MV696393,TV100757, TV243979, TV313695, TV310642, TV18
 -
 # big bro 26
 bigbrobanner = yes
-bigbro = yes
+bigbro = no
 bigbrodate =
 -
 
