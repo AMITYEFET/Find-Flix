@@ -10,7 +10,7 @@ NEWDATE = 16/3/26
 
 TV = NONE
 
-BOLD = TV290353
+BOLD = TV4605 - 21 שנים ל-[NAME]!,TV290353 - הזגורים חזרו!, 
 -
 # big bro 26
 bigbrobanner = no
