@@ -3,8 +3,8 @@
     "active": true,
     "title": "/",
     "description": "/",
-    "color": "#FF0000",
-  }
+    "color": "#FF0000"
+  },
   {
     "active": false,
     "title": "הודעה מוסתרת",
