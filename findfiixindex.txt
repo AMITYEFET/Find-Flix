@@ -1,6 +1,6 @@
 system = ON
 
-IMPOHEAD = האתר ימחק בסוף חודש אפריל.
+IMPOHEAD = האתר יסגר בסוף חודש אפריל.
 IMPODES = https://did.li/findflixend
 INFOHEAD = רוצים לצפות בתכנים?
 INFODES = בקרו בלשונית 'תוספים' בתוך 'האזור שלי' כדי להפעיל תוספי צפייה.
