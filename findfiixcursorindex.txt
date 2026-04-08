@@ -1,1 +1,1 @@
-CUSCRO = TV100088 - https://cdn.custom-cursor.com/packs/2393/ellie-the-last-of-us-2-guitar-pack-b.png , CO275402 - https://cdn.custom-cursor.com/packs/3171/creepy-mr-krabs-pack.png , MV298016 - https://cdn.custom-cursor.com/packs/3171/creepy-mr-krabs-pack.png
+CUSCRO = 100088 - https://ellietloucur.edgeone.app/image-removebg-preview%20(8).png
