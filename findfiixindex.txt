@@ -19,4 +19,4 @@ bigbro = yes
 bigbrodate =
 -
 
-LIVE = NONE
+LIVE = Test. This massesge is a test for our servers. thank you!
