@@ -1,1 +1,1 @@
-q=What is FestAndPlay?+a=test!
+q=What is FestAndPlay?+a=FestAndPlay is a brand new game, using BeatSaver maps to allow players to play Beat Saber in a clicker-friendly, mobile-friendly version.,
