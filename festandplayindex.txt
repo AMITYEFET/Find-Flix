@@ -3,4 +3,4 @@ q=What is FestAndPlay?+a=FestAndPlay is a brand new browser game that using Beat
 -
 IMPO=A-Cloud sync is now available.,B-Cloud storage is now available! Keep your data safe in Google's Firebase Server via Google Login. Due to this change, some users may experience a one-time reset to their data.
 
-RECO=27B5E
+RECO=27B5E,3fb1c
