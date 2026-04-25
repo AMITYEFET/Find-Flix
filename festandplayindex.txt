@@ -3,4 +3,4 @@ q=What is FestAndPlay?+a=FestAndPlay is a brand new browser game that using Beat
 -
 IMPO=New Update!,(1) Cloud storage is now available! Keep your data safe in Google's Firebase Server via Google Login. (2) Were no longer in beta, so user data has been reset to give everyone a fresh start. (3) We launched quests: complete daily Quests to get fest coins and acquire titles to show off in your profile. This feature is beta, so we'll balance the shop, quests and fest-coins If necessary. Thanks for playing FestAndPlay! 
 
-RECO=27B5E,3fb1c,4686b,4fc47,3d8f6,770,23571,4fc43,502fe,4fba6,46470,48b89,55d1,4b7d5,41967
+RECO=27B5E,3fb1c,4686b,4fc47,3d8f6,770,23571,4fc43,502fe,4fba6,46470,48b89,55d1,4b7d5,41967,4fd4e
