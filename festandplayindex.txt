@@ -3,4 +3,4 @@ q=What is FestAndPlay?+a=FestAndPlay is a brand new browser game that using Beat
 -
 IMPO=New Update!, (1) Daily Quests now give you up to 100, with 20 for each quest + 40 for the bonus one. (2) New Repeatable Quest: Earn 1 Fest Coin for every 1,000,000 points scored Accumulate points across tracks. (3) Be The Master! Prove your skills in three new quests and earn the 'Master Void' stage! stages are a new cool cosmetic. (4) Bug Fixes. | Thanks For Playing FestAndPlay!
 
-RECO=27B5E,3fb1c,4686b,4fc47,3d8f6,770,23571,4fc43,502fe,4fba6,46470,48b89,55d1,4b7d5,41967,4fd4e,9c05,3e066,9918,3ce1b,4f3f5,1bd8d,55a0,29132,b,41318,4779d,490ab,3bcb2
+RECO=27B5E,3fb1c,4686b,4fc47,3d8f6,770,23571,4fc43,502fe,4fba6,46470,48b89,55d1,4b7d5,41967,4fd4e,9c05,3e066,9918,3ce1b,4f3f5,1bd8d,55a0,29132,b,41318,4779d,490ab,3bcb2,265ee
