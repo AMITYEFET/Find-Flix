@@ -3,4 +3,4 @@ q=What is FestAndPlay?+a=FestAndPlay is a brand new browser game that using Beat
 -
 IMPO=New Update!,(1) Quests are now a bit harder and grant 25 Fest-Coins per one instead of 50: we also added a 3 Quest Bonus Goal for Extra 50 Fest-Coins - what's mean total 125 per day. you may have to wait for the next daily quest reset for this changes to appear. The constant Fest-Coins prices are now 200 for avatars, and 100 for titles. There may be special ones that will cost more in the future. (2) You can now see more details about the song you played in the 'History' tab. (3) Bug Fixes. | Thanks for playing FestAndPlay! 
 
-RECO=27B5E,3fb1c,4686b,4fc47,3d8f6,770,23571,4fc43,502fe,4fba6,46470,48b89,55d1,4b7d5,41967,4fd4e,9c05,3e066,9918,3ce1b,4f3f5,1bd8d
+RECO=27B5E,3fb1c,4686b,4fc47,3d8f6,770,23571,4fc43,502fe,4fba6,46470,48b89,55d1,4b7d5,41967,4fd4e,9c05,3e066,9918,3ce1b,4f3f5,1bd8d,55a0
