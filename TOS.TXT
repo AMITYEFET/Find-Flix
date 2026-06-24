@@ -1,0 +1,23 @@
+Last Updated: 24.06.2026
+By accessing or using FestAndPlay, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the application.
+# 1. Description of Service
+FestAndPlay is a web-based rhythm game that allows users to play community-created beatmaps, generate custom maps via an AI mapper, and track their gameplay progression.
+# 2. Intellectual Property and Copyright
+The Application: The FestAndPlay interface, code, graphics, and original assets are owned by the developers of FestAndPlay.
+Third-Party Content: FestAndPlay acts as a client interface. The beatmaps, track audio previews, and cover art are fetched from the third-party platform BeatSaver. FestAndPlay does not host, distribute, or claim ownership of any copyrighted music, tracks, or beatmaps accessed through the BeatSaver API.
+Lyrics: Song lyrics are fetched in real-time from LRCLIB and are the property of their respective copyright holders.
+User-Uploaded Audio: When using the AI Mapper, you are required to use audio files that you legally own or have the right to use. You acknowledge that FestAndPlay processes these files locally on your device and does not host or distribute your audio files. You are solely responsible for ensuring that your use of audio files complies with all applicable copyright laws.
+# 3. Virtual Currency and Items
+FestAndPlay features virtual currency ("Fest Coins") and virtual items (Titles, Avatars, Stages). These items have no real-world monetary value, cannot be exchanged for real money, and are entirely for in-game progression and cosmetic purposes. We reserve the right to modify, manage, or remove virtual items or currencies at any time without liability.
+# 4. User Conduct
+You agree to use FestAndPlay for personal, non-commercial entertainment purposes. You agree not to:
+Exploit bugs or use automated scripts/cheats to unfairly gain Fest Coins, high scores, or manipulate quests.
+Attempt to disrupt, overwhelm, or reverse-engineer the cloud database (Firebase) or the third-party APIs (BeatSaver, LRCLIB).
+#5. Disclaimer of Warranties
+FestAndPlay is provided on an "AS IS" and "AS AVAILABLE" basis. We make no warranties, expressed or implied, regarding the availability, accuracy, or uninterrupted functionality of the game. Because the game relies heavily on third-party APIs (such as BeatSaver), we cannot guarantee that tracks will always be available or playable.
+# 6. Limitation of Liability
+To the maximum extent permitted by law, the developers of FestAndPlay shall not be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with your use of the application, including but not limited to data loss (e.g., lost save files or setlists).
+# 7. Modifications to the Service
+We reserve the right to modify, update, or discontinue the FestAndPlay service (or any part thereof) at any time without notice.
+# 8. Contact Information
+If you have any questions or concerns regarding these Terms of Service or the Privacy Policy, please contact us at boogiedown262@gmail.com
