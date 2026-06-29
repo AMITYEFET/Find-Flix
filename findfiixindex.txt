@@ -16,7 +16,7 @@ BOLD =
 -
 # big bro 26
 bigbrobanner = no
-bigbro = yes
+bigbro = no
 bigbrodate =
 -
 
