@@ -11,5 +11,3 @@ RECO=27B5E,3fb1c,4686b,4fc47,3d8f6,770,23571,4fc43,502fe,4fba6,46470,48b89,55d1,
 
 NEW=​​'Verified Journey' Campaign: Play through every verified track one by one—no repeats! Level up your Journey Title to show off how many tracks you've conquered, displayed in either numeric or text format. Also: 1 New Title (JOURNEY TITLE), 1 New Avatar (Glitch Wizard - 200 Fest Coins) And 1 New Stage (Crystal Cavern - 400 Fest Coins).
 NEWDATE=29/6/2026
-
---
