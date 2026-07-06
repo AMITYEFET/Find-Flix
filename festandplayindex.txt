@@ -1,6 +1,6 @@
-IMPO=The Memory Game Mode is Now Available!, Starting July 13, This mode will only be available as an LTM for weekends. enjoy!
+IMPO=The Memory Game Mode is Now Available!, Starting July 13, This mode will only be available as an LTM for weekends.
 -
-MEMORY=NO
+MEMORY=YES
 -
 CODES=DEMOGIFT-25-31.12.2026
 -
