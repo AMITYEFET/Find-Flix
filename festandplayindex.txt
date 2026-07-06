@@ -1,4 +1,4 @@
-IMPO=The Memory Game Mode is Now Available!, Starting July 13, This mode will only be available as an LTM for weekends.
+IMPO=The Memory Game Mode is Now Available!, Starting July 13, This mode will only be available as an LTM for weekends. enjoy!
 -
 MEMORY=NO
 -
